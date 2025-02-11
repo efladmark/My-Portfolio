@@ -3,11 +3,11 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./EC Tags/Tag.jpg",
-  "./EC Tags/Tag2.jpg",
-  "./EC Tags/Tag3.jpg",
-  "./EC Tags/Tag4.jpg",
-  "./EC Tags/Tag5.jpg",
+  "./EC Tags/Reduced Images.jpg",
+  "./EC Tags/Reduced Images2.jpg",
+  "./EC Tags/Reduced Images3.jpg",
+  "./EC Tags/Reduced Images4.jpg",
+  "./EC Tags/Reduced Images5.jpg",
 ];
 
 const trees = [
